@@ -1,8 +1,6 @@
----
-title: Welcome to my blog The little big bug
----
 
-# QA Projects
+
+# Welcome to The little big bug
 
 Here I show my projects in the Testing World
 
